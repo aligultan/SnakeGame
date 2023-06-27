@@ -1,6 +1,6 @@
 # Snake Game
 
-This is an example implementation of a classic Snake game in Python using the Pygame library.
+This is an example implementation of a classic Snake game for Stanford Code in Place Program in Python using the Pygame library.
 
 ## Objective of the Game 
 - Control the snake and try to eat the food.
